@@ -1,0 +1,1 @@
+heroHealth = 100;

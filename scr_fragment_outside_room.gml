@@ -1,0 +1,1 @@
+instance_destroy(); //destroy frag if goes out of room

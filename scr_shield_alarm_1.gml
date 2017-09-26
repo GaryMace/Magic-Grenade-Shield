@@ -1,0 +1,1 @@
+sprite_index = spr_shield;  //reset sprite to normal
